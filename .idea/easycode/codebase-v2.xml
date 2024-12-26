@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/org/company/bridge/Application.java;C:/Workspace/design-patterns/src/main/java/org/company/bridge/ApplicationCreator.java;C:/Workspace/design-patterns/src/main/java/org/company/bridge/BankSystem.java;C:/Workspace/design-patterns/src/main/java/org/company/bridge/Developer.java;C:/Workspace/design-patterns/src/main/java/org/company/bridge/JavaDeveloper.java;C:/Workspace/design-patterns/src/main/java/org/company/bridge/KotlinDeveloper.java;C:/Workspace/design-patterns/src/main/java/org/company/bridge/StockExchange.java;C:/Workspace/design-patterns/src/main/java/org/company/proxy/Project.java;C:/Workspace/design-patterns/src/main/java/org/company/proxy/ProjectRunner.java;C:/Workspace/design-patterns/src/main/java/org/company/proxy/ProxyProject.java;C:/Workspace/design-patterns/src/main/java/org/company/proxy/RealProject.java;C:/Workspace/design-patterns/src/main/java/org/company/Main.java" />
+  </component>
+</project>
